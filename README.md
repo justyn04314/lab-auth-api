@@ -1,6 +1,6 @@
 Project Overview 
 
-This is a simple authentication API built with Express.js, MySQL, JWT, and bcrypt. It allows users to sign up, 
+This is a simple authentication API built with Express.js, MySQL, and JWT. It allows users to sign up, 
 log in, log out, and view their profile using a token system with configurable expiration and the passwords are safely stored, 
 and tokens can be revoked when a user logs out. 
 
